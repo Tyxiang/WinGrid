@@ -8,13 +8,19 @@
 # 窗口区域
 <table>
   <tr>
-    <td>1</td><td>U</td><td>2</td>
+    <td>L</td><td>R</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>LU</td><td>UM</td><td>RU</td>
   </tr>
   <tr>
-    <td>L</td><td>C</td><td>R</td>
+    <td>LM</td><td>M</td><td>RM</td>
   </tr>
   <tr>
-    <td>4</td><td>D</td><td>3</td>
+    <td>LD</td><td>DM</td><td>RD</td>
   </tr>
 </table>
 
