@@ -137,7 +137,7 @@ About:
 	EmptyMem()
 Return
 Help:
-    Run, Help.txt
+    Run, help.png
     EmptyMem()
 Return
 AutoRun:
