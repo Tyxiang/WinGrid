@@ -133,7 +133,7 @@ return
 return
 
 About:
-	TrayTip,WinGrid,Version: 3.60`nCopyright 2015 Forw Ltd.`nforw.cc,600,1
+	TrayTip,WinGrid,Version: 3.70`nCopyright 2015 Forw Ltd.`nforw.cc,600,1
 	EmptyMem()
 Return
 Help:
