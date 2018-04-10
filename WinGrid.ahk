@@ -13,15 +13,16 @@ EmptyMem()
 return
 
 ~LButton & RButton::
-	GridL:=540
-	GridR:=1390
 	;**************************************************************
 	SysGet, WorkArea, MonitorWorkArea
-	WorkAreaW:=WorkAreaRight
-	WorkAreaH:=WorkAreaBottom
+	WorkAreaW:=WorkAreaRight + 10
+	WorkAreaH:=WorkAreaBottom + 10
+	GridL:=560
+	GridR:=1390
+	BasePointX:=-10
+	BasePointY:=0
+	;**************************************************************
 	WinGetPos, WindowX, WindowY, WindowW, WindowH, A
-	WindowMX:=WindowX+WindowW/2
-	WindowMY:=WindowY+WindowH/2
 	;CoordMode, Mouse, Screen
 	MouseGetPos, MouseX, MouseY
 	;TrayTip,,%WindowX%/%WindowY%/%WindowW%/%WindowH% `n %MouseX%/%MouseY%
@@ -30,23 +31,24 @@ return
 	Y:=WindowY
 	W:=WindowW
 	H:=WindowH
-	if((WindowW==GridL or WindowW==GridR) and (WindowH==WorkAreaH or WindowH==WorkAreaH/2) and (WindowX==0 or WindowX==WorkAreaW-GridR) and (WindowY==0 or WindowY==WorkAreaH/2)){
+	if((WindowW==GridL or WindowW==GridR) and (WindowH==WorkAreaH or WindowH==WorkAreaH/2) and (WindowX==BasePointX or WindowX==WorkAreaW-GridR) and (WindowY==BasePointY or WindowY==WorkAreaH/2)){
 		
 		;1    U    2
 		;L    C    R
 		;4    D    3
 		
-		;1
+		/*
+		;1		
 		if(MouseX<WindowW*1/3 and MouseY<WindowH*1/3){
-			X:=0
-			Y:=0
+			X:=BasePointX
+			Y:=BasePointY
 			W:=GridL
 			H:=WorkAreaH/2
-		}
+		} 
 		;2
 		if(MouseX>WindowW*2/3 and MouseY<WindowH*1/3){
 			X:=WorkAreaW-GridR
-			Y:=0
+			Y:=BasePointY
 			W:=GridR
 			H:=WorkAreaH/2
 		}
@@ -59,11 +61,13 @@ return
 		}
 		;4
 		if(MouseX<WindowW*1/3 and MouseY>WindowH*2/3){
-			X:=0
+			X:=BasePointX
 			Y:=WorkAreaH/2
 			W:=GridL
 			H:=WorkAreaH/2
 		}
+		*/
+		
 		;C
 		if(MouseX>WindowW*1/3 and MouseX<WindowW*2/3 and MouseY>WindowH*1/3 and MouseY<WindowH*2/3){
 			X:=WorkAreaW/4
@@ -74,55 +78,54 @@ return
 		;U
 		if(MouseX>WindowW*1/3 and MouseX<WindowW*2/3 and MouseY<WindowH*1/3){
 			if(WindowY==WorkAreaH/2 and WindowH==WorkAreaH/2){
-				Y:=0
+				Y:=BasePointY
 				H:=WorkAreaH
 			}
-			if(WindowY==0 and WindowH==WorkAreaH){
+			if(WindowY==BasePointY and WindowH==WorkAreaH){
 				H:=WorkAreaH/2
 			} 
-			if(WindowY==0 and WindowH==WorkAreaH/2){
+			if(WindowY==BasePointY and WindowH==WorkAreaH/2){
 				H:=WorkAreaH
 			} 
 		}
 		;D
 		if(MouseX>WindowW*1/3 and MouseX<WindowW*2/3 and MouseY>WindowH*2/3){
-			if(WindowY==0 and WindowH==WorkAreaH/2){
-				Y:=0
+			if(WindowY==BasePointY and WindowH==WorkAreaH/2){
+				Y:=BasePointY
 				H:=WorkAreaH
 			}
-			if(WindowY==0 and WindowH==WorkAreaH){
+			if(WindowY==BasePointY and WindowH==WorkAreaH){
 				Y:=WorkAreaH/2
 				H:=WorkAreaH/2
 			}
 			if(WindowY==WorkAreaH/2 and WindowH==WorkAreaH/2){
-				Y:=0
+				Y:=BasePointY
 				H:=WorkAreaH
 			}
 		}
 		;L
 		if(MouseX<WindowW*1/3 and MouseY>WindowH*1/3 and MouseY<WindowH*2/3){
-			;~ if(Mod(WindowW,GridL)==0 and WindowW==GridL){
-			X:=0
-			Y:=0
+			X:=BasePointX
+			Y:=BasePointY
 			W:=GridL
 			H:=WorkAreaH
 		}
 		;R
 		if(MouseX>WindowW*2/3 and MouseY>WindowH*1/3 and MouseY<WindowH*2/3){
 			X:=WorkAreaW-GridR
-			Y:=0
+			Y:=BasePointY
 			W:=GridR
 			H:=WorkAreaH
 		}
 	}else{
 		if(MouseX<=WindowW*1/2){
-			X:=0
-			Y:=0
+			X:=BasePointX
+			Y:=BasePointY
 			W:=GridL
 			H:=WorkAreaH
 		}else{
 			X:=WorkAreaW-GridR
-			Y:=0
+			Y:=BasePointY
 			W:=GridR
 			H:=WorkAreaH
 		}
@@ -133,11 +136,11 @@ return
 return
 
 About:
-	TrayTip,WinGrid,Version: 3.70`nCopyright 2015 Forw Ltd.`nforw.cc,600,1
+	TrayTip,WinGrid,Version: 3.80`nCopyright 2015 Forw Ltd.`nforw.cc,600,1
 	EmptyMem()
 Return
 Help:
-    Run, help.png
+    Run, https://github.com/Tyxiang/WinGrid/blob/master/README.md
     EmptyMem()
 Return
 AutoRun:
