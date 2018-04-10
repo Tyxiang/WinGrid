@@ -1,5 +1,5 @@
 ## 1. 用途 Effect
-将当前窗口调整为标准大小并放置在特定位置。
+将当前窗口调整为标准大小并放置在特定位置。  
 Put current window to standard size and suitable position.
 
 ## 2. 用法 Usage
