@@ -17,7 +17,7 @@ return
 	SysGet, WorkArea, MonitorWorkArea
 	WorkAreaW:=WorkAreaRight
 	WorkAreaH:=WorkAreaBottom
-	GridL:=540
+	GridL:=550
 	GridR:=1390
 	BasePointX:=0
 	BasePointY:=0
