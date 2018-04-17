@@ -6,7 +6,7 @@ Put current window to standard size and suitable position.
 - 同时按下鼠标左右键触发窗口调整。
 - 调整结果取决于触发时鼠标指针位于窗口的哪个区域。
 
-## 3. 标准大小 Standard Size
+## 4. 标准大小 Standard Size
 
 ### 标准高度 Standard Height
 - 半高。屏幕高度的一半。
@@ -16,7 +16,7 @@ Put current window to standard size and suitable position.
 - 文件宽。约550像素，适合文件浏览等。
 - 内容宽。约1400像素，适合网页浏览、内容编辑等。
 
-## 4. 调整规则 Adjust Rules
+## 3. 调整规则 Adjust Rules
 
 ### 首次调整 First Time
 - 如果鼠标在前窗口左侧，窗口被调整至屏幕左侧，并设置为全高文件宽。
@@ -36,9 +36,12 @@ Put current window to standard size and suitable position.
   </tr>
 </table>
 
+<<<<<<< HEAD
 1. Item 1
 1. Item 2
 1. Item 3
   1. Item 3a
   1. Item 3b
+=======
+>>>>>>> parent of 432019a... Merge branch 'master' of https://github.com/Tyxiang/WinGrid
 
