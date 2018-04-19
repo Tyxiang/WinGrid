@@ -11,21 +11,21 @@ Put current window to standard size and suitable position.
 
 ## 标准大小 Standard Size
 
-### 标准高度 Standard Height
+__标准高度 Standard Height__
 - 半高。屏幕高度的一半。
 - 全高。屏幕高度。
 
-### 标准宽度 Standard Width
+__标准宽度 Standard Width__
 - 文件宽。约550像素，适合文件浏览等。
 - 内容宽。约1400像素，适合网页浏览、内容编辑等。
 
 ## 调整规则 Adjust Rules
 
-### 首次调整 First Time
+__首次调整 First Time__
 - 如果鼠标在前窗口左侧，窗口被调整至屏幕左侧，并设置为全高文件宽。
 - 如果鼠标在前窗口右侧，窗口被调整至屏幕右侧，并设置为全高内容宽。
 
-### 再次调整 Second Time
+__再次调整 Second Time__
 已经是标准大小的窗口，再次调整时遵循以下规则：
 <table>
   <tr>
