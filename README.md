@@ -16,8 +16,7 @@ Adjust the window to standard size and position quickly and accurately.
 1. Select "AutoRun";
 
 ## Usage
-- Press the left and right mouse buttons at the same time to trigger the window adjustment;
-- The result of the adjustment depends on which area of the window the mouse pointer is on when the trigger fires;
+Press the left and right mouse buttons at the same time to trigger the window adjustment; The result of the adjustment depends on which area of the window the mouse pointer is on when the trigger fires.
 
 ## Standard Size
 
