@@ -42,7 +42,7 @@ If it is already a standard size window, follow these rules when making adjustme
     <td></td><td>Adjust to half/full height</td><td></td>
   </tr>
   <tr>
-    <td>To left full height file width</td><td>To the middle of the screen</td><td>To right full height content wide</td>
+    <td>To left sfull height file width</td><td>To the middle of the screen</td><td>To right full height content width</td>
   </tr>
   <tr>
     <td></td><td>To half/full height</td><td></td>
