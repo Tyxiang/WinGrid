@@ -21,22 +21,22 @@ Adjust the window to standard size and position quickly and accurately.
 
 ## Standard Size
 
-__Standard Height__
+### Standard Height ###
 - `Half Height`. Half the height of the screen.
 - `Full Height`. Screen height.
 
-__Standard Width__
+### Standard Width ###
 - `File Width`. About 550 pixels, suitable for file browsing and so on.
 - `Content Width`. About 1400 pixels, suitable for web browsing, content editing and so on.
 - `Half Width`. Half the width of the screen.
 
 ## Adjust Rules
 
-__First Time__
+### First Time ###
 - If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to full height file width.
 - If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to full height content width.
 
-__Second Time__  
+### Second Time ###
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr height="100">
