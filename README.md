@@ -40,17 +40,17 @@ If it is already a standard size window, follow these rules when making adjustme
 <table>
   <tr height="100">
     <td width="180"></td>
-    <td width="180">To:<br>`Half Height`/`Full Height`<br></td>
+    <td width="180">To:<br>Half Height/Full Height<br></td>
     <td width="180"></td>
   </tr>
   <tr height="100">
-    <td>To:<br>Left side<br>`Full Height`<br>`File Width`</td>
-    <td>To:<br>Centre<br>`Half Height`<br>Half Width</td>
-    <td>To:<br>Right side<br>`Full Height`<br>`Content Width`</td>
+    <td>To:<br>Left side<br>Full Height<br>File Width</td>
+    <td>To:<br>Centre<br>Half Height<br>Half Width</td>
+    <td>To:<br>Right side<br>Full Height<br>Content Width</td>
   </tr>
   <tr height="100">
     <td></td>
-    <td>To:<br>`Half Height`/`Full Height`<br></td>
+    <td>To:<br>Half Height/Full Height<br></td>
     <td></td>
   </tr>
 </table>
