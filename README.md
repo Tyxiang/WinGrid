@@ -40,15 +40,19 @@ __Second Time__
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr>
-    <td></td><td>To<br>Half/Full Height</td><td></td>
+    <td></td>
+    <td><br>To:<br>Half/Full Height<br>  </td>
+    <td></td>
   </tr>
   <tr>
-    <td>To<br>Left<br>Full Height<br>File Width</td>
-    <td>To<br>Centre<br>Half Height<br>Half Width</td>
-    <td>To<br>Right<br>Full Height<br>Content Width</td>
+    <td>To:<br>Left side<br>Full Height<br>File Width</td>
+    <td>To:<br>Centre<br>Half Height<br>Half Width</td>
+    <td>To:<br>Right side<br>Full Height<br>Content Width</td>
   </tr>
   <tr>
-    <td></td><td>To<br>Half/Full Height</td><td></td>
+    <td></td>
+    <td><br>To:<br>Half/Full Height<br>    </td>
+    <td></td>
   </tr>
 </table>
 
