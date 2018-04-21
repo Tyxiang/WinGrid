@@ -22,12 +22,13 @@ Adjust the window to standard size and position quickly and accurately.
 ## Standard Size
 
 __Standard Height__
-- Half high. Half the height of the screen.
-- Full height. Screen height.
+- `Half Height`. Half the height of the screen.
+- `Full Height`. Screen height.
 
 __Standard Width__
-- File width. About 550 pixels, suitable for file browsing and so on.
-- Content width. About 1400 pixels, suitable for web browsing, content editing and so on.
+- `File Width`. About 550 pixels, suitable for file browsing and so on.
+- `Content Width`. About 1400 pixels, suitable for web browsing, content editing and so on.
+- `Half Width`. Half the width of the screen.
 
 ## Adjust Rules
 
@@ -39,15 +40,15 @@ __Second Time__
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr>
-    <td></td><td>To<br>half/full height</td><td></td>
+    <td></td><td>To<br>Half/Full Height</td><td></td>
   </tr>
   <tr>
-    <td>To<br>left<br>full height<br>file width</td>
-    <td>To<br>centre<br>half height<br>half width</td>
-    <td>To<br>right<br>full height<br>content width</td>
+    <td>To<br>Left<br>Full Height<br>File Width</td>
+    <td>To<br>Centre<br>Half Height<br>Half Width</td>
+    <td>To<br>Right<br>Full Height<br>Content Width</td>
   </tr>
   <tr>
-    <td></td><td>To<br>half/full height</td><td></td>
+    <td></td><td>To<br>Half/Full Height</td><td></td>
   </tr>
 </table>
 
