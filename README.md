@@ -1,7 +1,7 @@
 # WinGrid
 将Windows当前窗口调整为标准大小并放置在特定位置。   
 Put current window to standard size and suitable position.  
-![screenshot](https://github.com/Tyxiang/WinGrid/blob/master/screenshot.png)
+![screenshot](WinGrid/screenshot.png)
 
 ## 安装和卸载 Install&Uninstall
 - 无需安装，解压后复制到运行目录，运行WinGird.exe即可；
