@@ -32,11 +32,11 @@ Adjust the window to standard size and position quickly and accurately.
 
 ## Adjust Rules
 
-### First Time ###
+### The First Time ###
 - If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to full height file width.
 - If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to full height content width.
 
-### Second Time ###
+### The Second Time ###
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr height="100">
