@@ -1,5 +1,5 @@
-# WinGrid
-将Windows当前窗口调整为标准大小并放置在特定位置。  
+# WinGrid![icon](https://raw.githubusercontent.com/Tyxiang/WinGrid/master/icon.ico)
+将Windows当前窗口调整为标准大小并放置在特定位置。 
 Put current window to standard size and suitable position.
 
 ## 安装和卸载 Install&Uninstall
