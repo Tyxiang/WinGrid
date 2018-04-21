@@ -41,7 +41,7 @@ If it is already a standard size window, follow these rules when making adjustme
 <table>
   <tr>
     <td></td>
-    <td><br>To:<br>Half/Full Height<br>  </td>
+    <td>To:<br>Half/Full Height<br></td>
     <td></td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ If it is already a standard size window, follow these rules when making adjustme
   </tr>
   <tr>
     <td></td>
-    <td><br>To:<br>Half/Full Height<br>    </td>
+    <td>To:<br>Half/Full Height<br></td>
     <td></td>
   </tr>
 </table>
