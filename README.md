@@ -39,13 +39,15 @@ __Second Time__
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr>
-    <td></td><td>Adjust to half/full height</td><td></td>
+    <td></td><td>To<br>half/full height</td><td></td>
   </tr>
   <tr>
-    <td>To left sfull height file width</td><td>To the middle of the screen</td><td>To right full height content width</td>
+    <td>To<br>left<br>full height<br>file width</td>
+    <td>To<br>centre<br>half height<br>half width</td>
+    <td>To<br>right<br>full height<br>content width</td>
   </tr>
   <tr>
-    <td></td><td>To half/full height</td><td></td>
+    <td></td><td>To<br>half/full height</td><td></td>
   </tr>
 </table>
 
