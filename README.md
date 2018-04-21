@@ -32,14 +32,8 @@ Press the left and right mouse buttons at the same time to trigger the window ad
 ## Adjust Rules
 
 ### The First Time ###
-In the first adjustment, the window is adjusted to the `Full Height` and a standard width:  
-
-<table>
-  <tr height="300">
-    <td width="270">To:<br>Left side<br>Full Height<br>File Width</td>
-    <td width="270">To:<br>Right side<br>Full Height<br>Content Width</td>
-  </tr>
-</table>
+- If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to `Full Height` and `File Width`.
+- If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to `Full Height` and `Content Width`.
 
 ### The Second Time ###
 If it is already a standard size window, follow these rules when making adjustments again:
