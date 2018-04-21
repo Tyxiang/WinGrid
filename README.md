@@ -32,25 +32,25 @@ Press the left and right mouse buttons at the same time to trigger the window ad
 ## Adjust Rules
 
 ### The First Time ###
-- If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to full height file width.
-- If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to full height content width.
+- If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to `Full Height` and `File Width`.
+- If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to `Full Height` and `Content Width`.
 
 ### The Second Time ###
 If it is already a standard size window, follow these rules when making adjustments again:
 <table>
   <tr height="100">
     <td width="180"></td>
-    <td width="180">To:<br>Half/Full Height<br></td>
+    <td width="180">To:<br>`Half Height`/`Full Height`<br></td>
     <td width="180"></td>
   </tr>
   <tr height="100">
-    <td>To:<br>Left side<br>Full Height<br>File Width</td>
-    <td>To:<br>Centre<br>Half Height<br>Half Width</td>
-    <td>To:<br>Right side<br>Full Height<br>Content Width</td>
+    <td>To:<br>Left side<br>`Full Height`<br>`File Width`</td>
+    <td>To:<br>Centre<br>`Half Height`<br>Half Width</td>
+    <td>To:<br>Right side<br>`Full Height`<br>`Content Width`</td>
   </tr>
   <tr height="100">
     <td></td>
-    <td>To:<br>Half/Full Height<br></td>
+    <td>To:<br>`Half Height`/`Full Height`<br></td>
     <td></td>
   </tr>
 </table>
