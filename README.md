@@ -1,4 +1,6 @@
 # WinGrid
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 将Windows当前窗口调整为标准大小并放置在特定位置。   
 Put current window to standard size and suitable position.  
 
