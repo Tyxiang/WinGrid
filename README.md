@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
    
-Adjust the window to standard size and position quickly and accurately.  
+Adjust the window to standard size and standard position quickly and accurately.  
 
 ![screenshot](https://github.com/Tyxiang/WinGrid/blob/master/screenshot.png)
 
