@@ -4,7 +4,7 @@
    
 Adjust the window to standard size and standard position quickly and accurately.  
 
-![screenshot](https://github.com/Tyxiang/WinGrid/blob/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Tyxiang/WinGrid/master/screenshot.png)
 
 ## Install
 1. Download zip package from Releases;
