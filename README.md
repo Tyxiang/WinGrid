@@ -31,7 +31,7 @@ ___Standard Width___
 
 ## Adjust Rules
 
-___The First Time___    
+___The First Time___   
 - If the mouse is on the left side of the current window, the window is adjusted to the left of the screen and set to `Full Height` and `File Width`.
 - If the mouse is on the right side of the current window, the window is adjusted to the right of the screen and set to `Full Height` and `Content Width`.
 
