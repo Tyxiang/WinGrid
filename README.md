@@ -7,7 +7,7 @@ Adjust the window to standard size and standard position quickly and accurately.
 ![screenshot](https://raw.githubusercontent.com/Tyxiang/WinGrid/master/screenshot.png)
 
 ## Install
-1. Download zip package from [Releases](https://github.com/Tyxiang/WinGrid/releases) or [Here](http://forw.cc/download/WinGrid.zip);
+1. Download zip package from [GitHub Releases](https://github.com/Tyxiang/WinGrid/releases) or [Official Website](http://forw.cc/download/WinGrid.zip);
 1. Decompress the zip file to a working directory;
 1. Run WinGird.exe;
 
