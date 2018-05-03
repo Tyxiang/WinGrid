@@ -1,7 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-__Table of Contents__
+## Table of Contents
 
 <ul>
   <li><a href="#Install">Install</a></li>
@@ -23,6 +20,9 @@ __Table of Contents__
     <li><a href="#Other">Other</a>
   </li>
 </ul>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
 ![screenshot](http://forw.cc/cms/images/WinGrid.png)
 
