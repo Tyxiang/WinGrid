@@ -1,25 +1,3 @@
----
-title: WinGrid
-order: 2
-h1: WinGrid
-description: Adjust the window to standard size and standard position quickly and accurately.
-template: content_side_toc
-toc:
-    Install: Install
-    RunAs: Run At System Startup
-    Usage: Usage
-    Standard:
-        _title: Standard Size
-        Height: Standard Height
-        Width: Standard Width
-    Adjust:
-        _title: Adjust Rules
-        First: The First Time
-        Second: The Second Time
-    Uninstall: Uninstall
-    Other: Other
----
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 ![screenshot](http://forw.cc/cms/images/WinGrid.png)
