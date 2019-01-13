@@ -24,7 +24,7 @@ __Table of Contents__
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
-![screenshot](http://forw.cc/cms/images/WinGrid.png)
+![screenshot](http://forw.cc/website/images/WinGrid.png)
 
 <a name='Install'></a>
 ## Install
